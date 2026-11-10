@@ -1,0 +1,12 @@
+﻿region,level,area_sq_mi,population_1910,area_ocr_text,area_ocr_score,area_ocr_id,pop_ocr_text,pop_ocr_score,pop_ocr_id,label_ocr_id
+"United States, with outlying possessions",합계,3743306,101115487,"3,743,306",0.996,8,"101, 115, 487",0.962,9,7
+"United States, exclusive of outlying possessions",구분,3026789,91972266,"3,026,789",1.0,11,"91, 972,266",0.964,12,10
+Outlying possessions,구분,716517,9143221,"716,517",1.0,14,"9,143,221",1.0,15,13
+Alaska,세부,590884,64356,"590,884",1.0,17,"64,356",1.0,18,16
+Hawaii,세부,6449,191909,"6,449",0.999,20,"191,909",1.0,21,19
+Porto Rico,세부,3435,1118012,"3,435",0.996,23,"1,118,012",1.0,24,22
+Military and naval service abroad,세부,,55608,,,,"55,608",0.999,26,25
+Philippine Islands,세부,115026,17635426,"115,026",1.0,28,"17,635,426",0.989,29,27
+Panama Canal Zone,세부,436,262810,436,1.0,31,"262,810",0.945,32,30
+Guam (population estimated),세부,210,9000,210,1.0,34,"9,000",1.0,35,33
+Samoa (population estimated),세부,77,6100,77,1.0,37,"6,100",1.0,38,36

@@ -1,0 +1,26 @@
+[
+  {
+    "check": "면적: 세부 8행 합 = 'Outlying possessions'",
+    "computed": 716517,
+    "table_value": 716517,
+    "ok": true
+  },
+  {
+    "check": "면적: exclusive + Outlying = with outlying",
+    "computed": 3743306,
+    "table_value": 3743306,
+    "ok": true
+  },
+  {
+    "check": "인구: 세부 8행 합 = 'Outlying possessions'",
+    "computed": 19343221,
+    "table_value": 9143221,
+    "ok": false
+  },
+  {
+    "check": "인구: exclusive + Outlying = with outlying",
+    "computed": 101115487,
+    "table_value": 101115487,
+    "ok": true
+  }
+]
